@@ -1,0 +1,9 @@
+** This is a DEMO PROJECT **
+
+This project shows a bunch of things.
+
+* How to handle Text Input Validation
+* How to store stuff in UserDefaults
+* How to do KVO for binding model data to the interface.
+* How to do Dependency Injection with the use of just Storyboard.
+* How to have a generic object configure itself for different purposes.
